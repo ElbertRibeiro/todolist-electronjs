@@ -1,7 +1,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]](https://github.com/ElbertRibeiro/todo-list-electronJS/stargazers)
-[![Issues][issues-shield]](https://github.com/ElbertRibeiro/todo-list-electronJS/issues)
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -181,5 +181,5 @@ Project Link: [https://github.com/ElbertRibeiro/todo-list-electronJS](https://gi
 [license-shield]: https://img.shields.io/github/license/elbertribeiro/todo-list-electronJS.svg?style=flat-square
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/elbertribeiro
+[linkedin-url]: https://linkedin.com/in/elbert-ribeiro/
 [product-screenshot]: assets/To-do.png
