@@ -1,5 +1,5 @@
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
+[![Forks][forks-shield]](https://github.com/ElbertRibeiro/todo-list-electronJS/network/members)
 [![Stargazers][stars-shield]](https://github.com/ElbertRibeiro/todo-list-electronJS/stargazers)
 [![Issues][issues-shield]](https://github.com/ElbertRibeiro/todo-list-electronJS/issues)
 [![MIT License][license-shield]][license-url]
