@@ -179,7 +179,7 @@ Project Link: [https://github.com/ElbertRibeiro/todo-list-electronJS](https://gi
 [issues-shield]: https://img.shields.io/github/issues/elbertribeiro/todo-list-electronJS.svg?style=flat-square
 [issues-url]: https://github.com/elbertribeiro/todo-list-electronJS/issues
 [license-shield]: https://img.shields.io/github/license/elbertribeiro/todo-list-electronJS.svg?style=flat-square
-[license-url]: https://github.com/ElbertRibeiro/todo-list-electronJS/blob/main/LICENSE.txt
+[license-url]: https://github.com/ElbertRibeiro/todo-list-electronJS/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/elbert-ribeiro/
 [product-screenshot]: assets/To-do.png
