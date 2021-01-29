@@ -170,7 +170,7 @@ Project Link: [https://github.com/ElbertRibeiro/todo-list-electronJS](https://gi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/elbertribeiro/todo-list-electronJS.svg?style=flat-square
 [contributors-url]: https://github.com/elbertribeiro/todo-list-electronJS/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/elbertribeiro/todo-list-electronJS.svg?style=flat-square
 [forks-url]: https://github.com/ElbertRibeiro/todo-list-electronJS/network/members
