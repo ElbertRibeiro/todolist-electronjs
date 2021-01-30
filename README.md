@@ -89,16 +89,15 @@ npm install npm@latest -g
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
 ```sh
 git clone https://github.com/elbertribeiro/todo-list-electronJS.git
 ```
-3. Install NPM packages
+2. Install NPM packages
 ```sh
 npm install
 ```
-4. Start aplication
+3. Start aplication
 ```sh
 npm start
 ```
@@ -117,7 +116,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/elbertribeiro/todo-list-electronJS/issues) for a list of proposed features (and known issues).
 
 
 
