@@ -163,6 +163,7 @@ Project Link: [https://github.com/ElbertRibeiro/todo-list-electronJS](https://gi
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
 * [Readme](https://github.com/othneildrew/Best-README-Template)
+* [Project](https://blog.rocketseat.com.br/electron-construindo-aplicacoes-desktop-com-javascript/)
 
 
 
