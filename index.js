@@ -10,7 +10,7 @@ require("electron-reload")(__dirname, {
 // Função que cria uma janela desktop
 function createWindow() {
   // Adicionando um ícone na barra de tarefas/dock
-  const icon = nativeImage.createFromPath(`${app.getAppPath()}/icon.png`);
+  const icon = nativeImage.createFromPath(`${app.getAppPath()}/assets/icon.png`);
 
   if (app.dock) {
     app.dock.setIcon(icon);
