@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/ElbertRibeiro/todo-list-electronJS.git"
   },
-  "license": "ISC",
+  "license": "MIT License",
   "dependencies": {
     "electron": "^10.1.3",
     "electron-packager": "^15.2.0",
