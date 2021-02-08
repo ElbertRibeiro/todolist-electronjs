@@ -182,4 +182,4 @@ Project Link: [https://github.com/ElbertRibeiro/todo-list-electronJS](https://gi
 [license-url]: https://github.com/elbertribeiro/todo-list-electronJS/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/elbert-ribeiro/
-[product-screenshot]: assets/To-do.png
+[product-screenshot]: .github/To-do.png
