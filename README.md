@@ -17,7 +17,7 @@
   <h3 align="center">Todo List</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    README for this is project!
     <br />
     <a href="https://github.com/ElbertRibeiro/todo-list-electronJS/wiki"><strong>Explore the docs »</strong></a>
     <br />
